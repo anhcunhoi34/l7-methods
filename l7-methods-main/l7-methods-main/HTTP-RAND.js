@@ -355,6 +355,7 @@ const UAs = [
 	"Opera/9.80 (Windows NT 6.0; U; nl) Presto/2.6.30 Version/10.60",
 	"Opera/10.60 (Windows NT 5.1; U; zh-cn) Presto/2.6.30 Version/10.60",
 	"Opera/10.60 (Windows NT 5.1; U; en-US) Presto/2.6.30 Version/10.60",
+	"Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
 	"Opera/9.80 (X11; Linux i686; U; it) Presto/2.5.24 Version/10.54",
 	"Opera/9.80 (X11; Linux i686; U; en-GB) Presto/2.5.24 Version/10.53",
 	"Mozilla/5.0 (Windows NT 5.1; U; zh-cn; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 Opera 10.53",
